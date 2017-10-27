@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+
+<html style="background-color: RGB(255,255,255)">
+
+<!--Beginning of Google Analtical Tracking-->
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-85140545-1', 'auto');
+
+  ga('send', 'pageview');
+
+
+
+</script>
+
+<!--End of Google Analtical Tracking-->
+
+<!--Google Verification (AK)-->
+
+   <meta name="google-site-verification" content="P-Qv9zPWcr6xresekxvJAGcALiQlqWpg_37mjGmmlTg" />
+
+<!-- END OF GOOGLE VERIFICATION (AK)-->
+
+
+<!--AK-->
+  <title>M's Blog Home</title>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+  <style>
+
+    body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+  </style>
+<!--AK-->
+
+
+  <!-- BODY BEGINS-->
+
+<body class="w3-light-grey">
+
+  <!-- Google Tag Manager (noscript) -->
+
+
+
+  <noscript>
+
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53RMBTL"
+
+    height="0" width="0" style="display:none;visibility:hidden">
+
+   </iframe>
+
+  </noscript>
+
+
+
+  <!-- End Google Tag Manager (noscript) -->
+
+<div class="w3-content" style="max-width:1400px">
+
+
+
+<!-- Header -->
+
+<header class="w3-container w3-center w3-padding-32">
+
+
+
+  <!-- Google Tag Manager -->
+
+     <script>
+
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+      })(window,document,'script','dataLayer','GTM-53RMBTL');
+
+     </script>
+
+  <!-- End Google Tag Manager -->
+
+  <!-- Icon (AK) -->
+
+
+
+  <image rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+
+
+
+
+  <!-- Meta Tags Start (AK)-->
+
+  <!-- Meta Keywords (AK)-->
+
+  <meta name="keywords" content="Seattle Mariners, Mariners, MLB, AL West, Felix Hernandez,
+
+  Nelson Cruz, Robinson Cano, Seattle News, Seattle Mariners News, Seattle Mariners Updates,
+
+  Seattle Mariners Blog, seattle mariners blog">
+
+
+
+  <!-- Meta Description (AK)-->
+
+  <meta name="description" content="My Oh My Mariners Blog Home Page">
+
+
+
+  <!-- Meta Author Name (AK)-->
+
+  <meta name="author" content="Alex Kenny">
+
+
+
+  <!-- Meta Refresh (AK)-->
+
+  <meta http-equiv="refresh" content="60">
+
+
+
+  <!-- Meta Page Optimazation for all devices (AK)-->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Meta Tags End (AK)-->
+
+
+<!--AK-->
+  <h1 align="center"><b>My Oh My:</b></h1>
+
+  <h2 align="center"><b>The Blog of Faithful M's Fans</b></h1>
+
+
+
+    <center>
+
+    <nav>
+
+      <ul>
+
+        <li><a href="https://myohmymsblog.me/MarinersBlogArticleHTML.html">Articles</a>
+
+          <ul>
+
+            <li><a href="https://myohmymsblog.me/MarinersBlogRecentArticles.html">Recent Articles</a></li>
+
+          </ul>
+
+        </li>
+
+        <li><a href="https://myohmymsblog.me/MarinersBlogPlayerProfilesHomeHTML.html">Player Profiles</a></li>
+
+        <li><a href="https://myohmymsblog.me/MarinersBlogSocialMediaHTML.html">Social Media</a></li>
+
+        <li><a href="https://myohmymsblog.me/MarinersBlogContactUsPageHTML.html">Contact Us</a></li>
+
+      </ul>
+
+    </nav>
+
+  </center>
+
+
+
+    <style>
+
+    nav ul ul {
+
+      display: none;
+
+    }
+
+
+
+      nav ul li:hover > ul {
+
+        display: block;
+
+      }
+
+
+
+      nav ul {
+
+        background: grey;
+
+        background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);
+
+        background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%);
+
+        background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%);
+
+        box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+
+        padding: 0 20px;
+
+        border-radius: 10px;
+
+        list-style: none;
+
+        position: relative;
+
+        display: inline-table;
+
+      }
+
+        nav ul:after {
+
+          content: ""; clear: both; display: block;
+
+        }
+
+
+
+        nav ul li {
+
+      float: left;
+
+    }
+
+      nav ul li:hover {
+
+        background: #4b545f;
+
+        background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
+
+        background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
+
+        background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
+
+      }
+
+        nav ul li:hover a {
+
+          color: #fff;
+
+        }
+
+
+
+      nav ul li a {
+
+        display: block; padding: 25px 40px;
+
+        color: rgb(50, 145, 250); text-decoration: none;
+
+      }
+
+
+
+      nav ul ul {
+
+      background: #5f6975; border-radius: 0px; padding: 0;
+
+      position: absolute; top: 100%;
+
+    }
+
+      nav ul ul li {
+
+        float: none;
+
+        border-top: 1px solid #6b727c;
+
+        border-bottom: 1px solid #575f6a;
+
+        position: relative;
+
+      }
+
+        nav ul ul li a {
+
+          padding: 15px 40px;
+
+          color: #fff;
+
+        }
+
+          nav ul ul li a:hover {
+
+            background: #4b545f;
+
+          }
+
+
+
+          nav ul ul ul {
+
+      position: absolute; left: 100%; top:0;
+
+    }
+
+
+
+    </style>
+
+
+
+</header>
+<!--AK-->
+
+
+<!-- Grid -->
+
+<div class="w3-row">
+
+
+
+<!-- Blog entries -->
+
+<div class="w3-col l8 s12">
+
+
+
+
+
+
+
+  <!-- Blog entry -->
+<!--AK-->
+  <div class="w3-card-4 w3-margin w3-white">
+
+    <image src="http://cdn.inquisitr.com/wp-content/uploads/2016/05/Felix-Hernandez-Pitching.jpg"
+
+                  height="200px" width="872px" alt="Seattle">
+
+    <style>
+
+    img {
+
+    max-width: 100%;
+
+    min-device-width: 10%;
+
+    height: auto;
+
+    }
+
+    </style>
+
+
+
+    <div class="w3-container w3-padding-8">
+
+
+
+    </div>
+
+
+
+    <div class="w3-container">
+
+      <p align="center">Welcome to the My Oh My Mariners Blog written by long time fans of the team.</p>
+
+    </div>
+
+  </div>
+
+  <hr>
+<!--AK-->
+
+
+  <!-- Blog entry (AK)-->
+
+  <div class="w3-container">
+
+    <div class="w3-card-4 w3-margin w3-white">
+
+
+
+
+<!--AK-->
+      <div class="w3-container w3-padding-8">
+
+        <h3 align="center" style="color: rgb(50, 145, 250)">The Health of the Mariner's Rotation</h3>
+
+        <h5 align="left">May 28, 2017</h5>
+
+      </div>
+
+
+
+      <div class="w3-container">
+
+        <p>After a disappointing series in Boston against the Red Sox, the Mariners will leave with some good news.
+
+        James Paxton threw four innings in Double-A Arkansans where he struck out five and gave up two runs in a 4-2 win.
+
+        Félix Hernández threw a 25-pitch bullpen yesterday prior to the Seattle and Boston series finale.
+
+        This is his first bullpen session after arriving on the DL on April 26 following shoulder pain.
+
+        He is expected to throw another bullpen in the following days.
+
+        Hisashi Iwakuma threw a bullpen for the first time since hitting the DL for shoulder pains.
+
+        Since being listed to the DL, Drew Smyly has increased the difficulty of his throwing program to help heal his elbow.
+
+        He played catch a few days ago going to 90 feet.
+
+        From here he will play long toss to strengthen his elbow for bullpens in the near future.
+
+        In conclusion, the Mariners will have their Opening Day starters in a few weeks with Paxton, Hernandez, and Iwakuma coming back in a few weeks and Smyly back in mid-June.
+
+           <br>
+
+           <br>
+
+          By Alex and
+
+          <a href="https://twitter.com/MyOhMyMsBlog" data-size="large" target="_blank">The My Oh My Blog Staff</a>.
+
+        </p>
+
+        <div class="w3-row">
+
+        </div>
+
+      </div>
+
+    </div>
+<!--AK-->
+
+
+
+
+
+
+<!-- END BLOG ENTRIES -->
+
+</div>
+
+<!--Div above is for this blog entry-->
+
+</div>
+
+<!--End of left side of page-->
+
+
+
+
+
+
+
+<!--Beginning of right side-->
+
+<!-- Introduction menu -->
+
+<div class="w3-col l4">
+<!--AK-->
+  <!-- About Card -->
+
+  <div class="w3-card-2 w3-margin w3-margin-top">
+
+    <div class="w3-container w3-white">
+
+      <h4><b>Click <a href="https://myohmymsblog.me/MarinersBlogAboutHTML.html">here</a> to see the About Us Page!</b></h4>
+
+        <p>Here is a countdown until the end of the Regular Season on Ocober 1st!</p>
+
+        <p id="demo"></p>
+
+        <script>
+
+  // Set the date we're counting down to
+
+  var countDownDate = new Date("October 1, 2017 17:10:10").getTime();
+
+
+
+  // Update the count down every 1 second
+
+  var x = setInterval(function() {
+
+
+
+      // Get todays date and time
+
+      var now = new Date().getTime();
+
+
+
+      // Find the distance between now an the count down date
+
+      var distance = countDownDate - now;
+
+
+
+      // Time calculations for days, hours, minutes and seconds
+
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+
+
+      // Output the result in an element with id="demo"
+
+      document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+
+      + minutes + "m " + seconds + "s ";
+
+
+
+      // If the count down is over, write some text
+
+      if (distance < 0) {
+
+          clearInterval(x);
+
+          document.getElementById("demo").innerHTML = "EXPIRED";
+
+       }
+
+       }, 1000);
+
+    </script>
+
+
+
+    </div>
+
+    <!-- this div goes to "<div class="w3-container w3-white">-->
+
+
+
+    </div>
+
+  <hr>
+
+<!--This div goes it "<div class="w3-card-2 w3-margin w3-margin-top>"-->
+
+
+<!--AK-->
+
+
+
+
+  <!-- Labels / tags -->
+<!--AK-->
+  <right>
+
+  <div class="w3-card-2 w3-margin">
+
+    <div class="w3-container w3-padding">
+
+      <h4 align="center">Calendar</h4>
+
+      <h4 align="center">*Place your mouse over the date to see the scheduled Mariners Games*</h4>
+
+    </div>
+
+    <div class="w3-container w3-white">
+
+    <ul>
+
+
+
+    <div class="month">
+
+      <ul>
+
+        <center>
+
+          <li>September<br>
+
+          <span style="font-size:18px">2017</span>
+
+        </center>
+
+        </li>
+
+      </ul>
+
+    </div>
+
+
+
+    <ul class="weekdays">
+
+      <li>Su</li>
+
+      <li>Mo</li>
+
+      <li>Tu</li>
+
+      <li>We</li>
+
+      <li>Th</li>
+
+      <li>Fr</li>
+
+      <li>Sa</li>
+
+    </ul>
+
+<!--Days of the month (AK)-->
+
+<!--Edit every day to accomdate change in day-->
+
+    <ul class="days">
+
+      <li>27</li>
+
+      <li>28</li>
+
+      <li>29</li>
+
+      <li>30</li>
+
+      <li>31</li>
+
+      <li><p title="Seattle vs Oakland: Game 1"><b>1</b></p></li>
+      <li><p title="Seattle vs Oakland: Game 2"><b>2</b></p></li>
+      <li><p title="Seattle vs Oakland: Game 3"><b>3</b></p></li>
+      <li><p title="Seattle vs Houston: Game 1"><b>4</b></p></li>
+      <li><p title="Seattle vs Houston: Game 2"><b>5</b></p></li>
+      <li><p title="Seattle vs Houston: Game 3"><b>6</b></p></li>
+
+      <li><p title="No Game"><b>7</b></p></li>
+
+      <li><p title="Seattle vs Anaheim: Game 1"><b>8</b></p></li>
+
+      <li><p title="Seattle vs Anaheim: Game 2"><b>9</b></p></li>
+
+      <li><p title="Seattle vs Anaheim: Game 3"><b>10</b></p></li>
+
+      <li><p title="Seattle @ Texas: Game 1"><b>11</b></p></li>
+
+      <li><p title="Seattle @ Texas: Game 2"><b>12</b></p></li>
+
+      <li><p title="Seattle @ Texas: Game 3"><b>13</b></p></li>
+
+      <li><p title="Seattle @ Texas: Game 4"><b>14</b></p></li>
+
+      <li><p title="Seattle @ Houston: Game 1"><b>15</b></p></li>
+
+      <li><p title="Seattle @ Houston: Game 2"><b>16</b></p></li>
+
+      <li><p title="Seattle @ Houston: Game 3"><b>17</b></p></li>
+
+      <li><p title="NO Game"><b>18</b></p></li>
+
+      <li><p title="Seattle vs Texas: Game 1"><b>19</b></p></li>
+
+      <li><p title="Seattle vs Texas: Game 2"><b>20</b></p></li>
+
+      <li><p title="Seattle vs Texas: Game 3"><b>21</b></p></li>
+
+      <li><p title="Seattle vs Cleveland: Game 1"><b>22</b></p></li>
+
+      <li><p title="Seattle vs Cleveland: Game 2"><b>23</b></p></li>
+
+      <li><p title="Seattle vs Cleveland: Game 3"><b>24</b></p></li>
+
+      <li><p title="Seattle @ Oakland: Game 1"><b>25</b></p></li>
+
+      <li><p title="Seattle @ Oakland: Game 2"><b>26</b></p></li>
+
+      <li><p title="Seattle @ Oakland: Game 3"><b>27</b></p></li>
+
+      <li><p title="No Game"><b>28</b></p></li>
+
+      <li><p title="Seattle @ Anaheim: Game 1"><b>29</b></p></li>
+
+      <li><p title="Seattle @ Anaheim: Game 2"><b>30</b></p></li>
+
+      <li><p title="Seattle @ Anaheim: Game 3"><b>1</b></p></li>
+
+      <li><p title="End of Season"><b>2</b></p></li>
+
+      <li>3</li>
+
+      <li>4</li>
+
+      <li>5</li>
+
+      <li>6</li>
+
+      <li>7</li>
+
+    </ul>
+
+  </right>
+
+<br>
+
+<br>
+<!--AK-->
+<!-- Search Bar Start-->
+
+  <script>
+
+    (function() {
+
+      var cx = '010168690340588584736:tb1vqoesc6a';
+
+      var gcse = document.createElement('script');
+
+      gcse.type = 'text/javascript';
+
+      gcse.async = true;
+
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+
+      var s = document.getElementsByTagName('script')[0];
+
+      s.parentNode.insertBefore(gcse, s);
+
+    })();
+
+  </script>
+
+  <gcse:search>
+
+  </gcse:search>
+
+  <!--Search Bar End-->
+
+  <br>
+
+
+
+   <center>
+
+
+
+     <div class="w3-card-2 w3-margin">
+
+       <div class="w3-container w3-padding">
+
+         <h4>Twitter Feed</h4>
+
+       </div>
+
+       <div class="w3-container w3-white">
+
+        <a class="twitter-timeline" data-height="450"
+
+        href="https://twitter.com/MyOhMyMsBlog">Tweets by MyOhMyMsBlog</a>
+
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+       </div>
+
+     </div>
+
+
+
+
+
+      </center>
+
+     <style>
+
+       * {box-sizing:border-box;}
+
+       ul {list-style-type: none;}
+
+       body {font-family: Verdana,sans-serif;}
+
+
+
+       .month {
+
+           padding: 50px 20px;
+
+           width: 100%;
+
+           background: #1abc9c;
+
+       }
+
+
+
+       .month ul {
+
+           margin: 0;
+
+           padding: 0;
+
+       }
+
+
+
+       .month ul li {
+
+           color: white;
+
+           font-size: 20px;
+
+           text-transform: uppercase;
+
+           letter-spacing: 3px;
+
+       }
+
+
+
+       .month .prev {
+
+           float: left;
+
+           padding-top: 10px;
+
+       }
+
+
+
+       .month .next {
+
+           float: right;
+
+           padding-top: 10px;
+
+       }
+
+
+
+       .weekdays {
+
+           margin: 0;
+
+           padding: 10px 0;
+
+           background-color: #ddd;
+
+       }
+
+
+
+       .weekdays li {
+
+           display: inline-block;
+
+           width: 11.3%;
+
+           color: #666;
+
+           text-align: center;
+
+       }
+
+
+
+       .days {
+
+           padding: 10px 0;
+
+           background: #eee;
+
+           margin: 0;
+
+       }
+
+
+
+       .days li {
+
+           list-style-type: none;
+
+           display: inline-block;
+
+           width: 11.6%;
+
+           text-align: center;
+
+           margin-bottom: 5px;
+
+           font-size:12px;
+
+           color: #777;
+
+       }
+
+
+
+       .days li .active {
+
+           padding: 5px;
+
+           background: #1abc9c;
+
+           color: white !important
+
+       }
+
+
+
+       /* Add media queries for smaller screens */
+
+       @media screen and (max-width:720px) {
+
+           .weekdays li, .days li {width: 13.1%;}
+
+       }
+
+
+
+       @media screen and (max-width: 420px) {
+
+           .weekdays li, .days li {width: 13.5%;}
+
+           .days li .active {padding: 2px;}
+
+       }
+
+
+
+       @media screen and (max-width: 290px) {
+
+           .weekdays li, .days li {width: 12.2%;}
+
+       }
+
+       /* Style all font awesome icons */
+
+       .fa {
+
+           padding: 20px;
+
+           font-size: 30px;
+
+           width: 50px;
+
+           text-align: center;
+
+           text-decoration: none;
+
+       }
+
+       /* Add a hover effect if you want */
+
+       .fa:hover {
+
+           opacity: 0.7;
+
+       }
+
+       /* Set a specific color for each brand */
+
+       /* Twitter */
+
+       .fa-twitter {
+
+           background: #55ACEE;
+
+           color: white;
+
+       }
+
+       </style>
+
+     </p>
+
+    </ul>
+
+    </div>
+
+  </div>
+
+
+
+<!-- END Introduction Menu -->
+
+</div>
+
+<!--ENd of side tab-->
+<!--AK-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END GRID -->
+
+</div><br>
+
+
+
+<!-- END w3-content -->
+
+</div>
+
+
+
+<!-- Footer -->
+
+
+<!--AK-->
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+
+  <button class="w3-btn w3-padding-large w3-margin-bottom"><a href="https://myohmymsblog.me/MarinersBlogArticleHTML.html">Next »</a></button>
+
+  &copy; 2017, My Oh My Blog, All Rights Reserved
+
+</footer>
+
+
+
+
+
+</body>
+
+</html>
+<!--AK-->
